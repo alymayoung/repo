@@ -1,0 +1,42 @@
+{
+    "ordenes": [
+        {
+            "numero": 7800,
+            "estado": "Facturada",
+            "marca": "Toyota",
+            "modelo": "2L",
+            "serie": "123456",
+            "detalle": [
+                { 
+                    "descripcion": "descripcion 1",
+                    "cantidad": 1,
+                    "precio": 30.00
+                },
+                { 
+                    "descripcion": "descripcion 2",
+                    "cantidad": 2,
+                    "precio": 10.00
+                }
+            ]
+        },
+        {
+            "numero": 7801,
+            "estado": "Aprobada",
+            "marca": "Mitsubishi",
+            "modelo": "4D56",
+            "serie": "111111",
+            "detalle": [
+                { 
+                    "descripcion": "descripcion 1",
+                    "cantidad": 2,
+                    "precio": 10.00
+                },
+                { 
+                    "descripcion": "descripcion 3",
+                    "cantidad": 1,
+                    "precio": 100.00
+                }
+            ]
+        }
+    ]
+}
