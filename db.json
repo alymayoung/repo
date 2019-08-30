@@ -18,7 +18,8 @@
                     "cantidad": 2,
                     "precio": 10.00
                 }
-            ]
+            ],
+            "comentarios": "Cliente envia el dia 10/11/2018: (ALYV): un cabezote usado armado con sus valvulas, resortes, tapaderas y cunas. Un bloque usado con 3 esparragos, 2 guias sobre el plano... etc.<br/> asdfafa asdfasf asfasf asdfasfasdfa sfasfasfas"
         },
         {
             "id": 7801,
@@ -38,7 +39,8 @@
                     "cantidad": 1,
                     "precio": 100.00
                 }
-            ]
+            ],
+            "comentarios": "Cliente envia el dia 12/11/2018: (ALYV): Un bloque totalmente armado, con cigüeñal, bielas y pistones. 20 esparragos, bomba de aceite, tapa del carter con sus 10 tornillos. 2 guias sobre el plano....etc"
         }
     ]
 }
